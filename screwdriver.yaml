@@ -1,0 +1,4 @@
+template: sd-test/example-template@latest
+shared:
+  environment: 
+    FOO: bar
