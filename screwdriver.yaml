@@ -2,3 +2,6 @@ template: sd-test/example-template@latest
 shared:
   environment: 
     FOO: bar
+jobs:
+  main:
+    image: node:lts
